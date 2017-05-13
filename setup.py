@@ -7,5 +7,5 @@ setup(name='chatbot_analytics',
       author='Harsha Goli',
       author_email='harshagoli@gmail.com',
       license='MIT',
-      packages=['chatbot_analytics'],
+      packages=['chan'],
       zip_safe=False)
